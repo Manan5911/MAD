@@ -52,7 +52,6 @@ class Employee{
       this.EmpSalary = 50000;
     }
   }
-
 }
 
 void main(){

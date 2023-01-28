@@ -20,7 +20,8 @@ void main(List<String> args) {
   // randomNumberGuess();
   // printFibonacci();
   // removeDuplicates();
-  printBackwards();
+  // printBackwards();
+  print(100/3);
 }
 
 checkPalindrome() {
